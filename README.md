@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About jupyter_conda
 ===================
 
@@ -18,9 +14,14 @@ Summary: Conda environment and package access extension from within Jupyter
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/jupyter_conda-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/jupyter_conda-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/jupyter_conda-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/jupyter_conda-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/jupyter-conda-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/jupyter-conda-feedstock/branch/master)
+
+<table><tr>
+    <td>All platforms:</td>
+    <td>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
