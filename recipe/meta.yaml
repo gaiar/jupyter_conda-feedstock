@@ -24,7 +24,7 @@ requirements:
     - nb_conda_kernels >=2.0.0
     - packaging
     - requests
-    - typing
+    - typing # [py<36]
 
 test:
   imports:
